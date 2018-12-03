@@ -25,14 +25,20 @@ public class MyGameFrame extends JFrame {
         }
     }
     Image bg = GameUtil.getImage("images/bg.jpg");
-    Image plane = GameUtil.getImage("images/plane.png");
-    int PlaneX = 250, PlaneY = 250;
+    Image planeimg = GameUtil.getImage("images/plane.png");
+
+
+    Plane p = new Plane(planeimg,250,250);
+    Plane p1 = new Plane(planeimg,100 ,100);
+    Plane p2 = new Plane(planeimg,50,350);
+
+
     @Override
     public void paint(Graphics g) {//自动被调用，g相当于一只画笔
         g.drawImage(bg,0,0,null);
-        g.drawImage(plane,PlaneX,PlaneY,null);
-        PlaneY++;
-        PlaneX++;
+        p.drawSelf(g);//画飞机
+        p1.drawSelf(g);//画飞机
+        p2.drawSelf(g);//画飞机
 
 
     }
