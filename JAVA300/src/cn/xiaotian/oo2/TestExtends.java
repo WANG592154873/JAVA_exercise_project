@@ -11,7 +11,7 @@ public class TestExtends {
         stu.height = 666;
         stu.rest();
         stu.study();
-        System.out.println(stu instanceof Student);
+        System.out.println(stu instanceof Student);//运行时指出对象是否是特定类的一个实例
         System.out.println(stu instanceof Person);
         System.out.println(stu instanceof Object);
         System.out.println(new Person() instanceof Student);
