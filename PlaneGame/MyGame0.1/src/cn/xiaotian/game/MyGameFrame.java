@@ -1,6 +1,7 @@
 /***
  *
  * 飞机游戏的主窗口
+ * Game0.1版本
  */
 package cn.xiaotian.game;
 
