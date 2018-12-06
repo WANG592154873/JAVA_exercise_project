@@ -32,7 +32,9 @@
 *.app
 
 #files
-/out
-/.idea
-/JAVA300/out
-/JAVA300/.idea
+/JavaStudy/out
+/JavaStudy/.idea
+/Sxt_PlaneGame/out
+/Sxt_PlaneGame/.idea
+/Sxt_JavaLession/out
+/Sxt_JavaLession/.idea
