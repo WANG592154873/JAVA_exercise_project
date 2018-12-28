@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--这是个注释-->
+
+<scores>
+    <stu id="1">
+        <name>王同</name>
+        <class>java</class>
+        <score>89</score>
+    </stu>
+    <stu id="2">
+        <name>李佳</name>
+        <class>sql</class>
+        <score>58</score>
+    </stu>
+</scores>
