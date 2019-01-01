@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0ce8277-12ec-4ec0-84a8-64833d2fc116" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/thread/Demo09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,14 +27,15 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="5" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="60" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -60,7 +56,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6566" />
+          <entry key="JAVA" value="9242" />
           <entry key="XML" value="128" />
         </counts>
       </usages-collector>
@@ -69,19 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo01.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="425">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,40 +77,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo03.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="272">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/FileInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/FileCopy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scores.xml">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="227">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo07.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,39 +131,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4131">
-              <caret line="278" column="32" selection-start-line="278" selection-start-column="32" selection-end-line="278" selection-end-column="32" />
+            <state relative-caret-position="395">
+              <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Thread.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8466">
-              <caret line="550" column="22" selection-start-line="550" selection-start-column="22" selection-end-line="550" selection-end-column="22" />
+            <state relative-caret-position="408">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15351">
+              <caret line="957" column="40" selection-start-line="957" selection-start-column="35" selection-end-line="957" selection-end-column="40" />
               <folding>
-                <element signature="e#19132#19133#0" expanded="true" />
-                <element signature="e#19175#19176#0" expanded="true" />
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="e#36393#36394#0" expanded="true" />
+                <element signature="e#36459#36460#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7650">
-              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2006">
-              <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -206,7 +211,17 @@
         <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo02.java" />
         <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo03.java" />
         <option value="$PROJECT_DIR$/src/scores.xml" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo05.java" />
         <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo06.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo07.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo08.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo03.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo04.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo05.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/FileCopy.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo06.java" />
+        <option value="$PROJECT_DIR$/src/cn/xiaotian/io/IODemo07.java" />
       </list>
     </option>
   </component>
@@ -216,11 +231,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="250" />
-    <option name="y" value="-1080" />
-    <option name="width" value="1442" />
-    <option name="height" value="761" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="78" />
+    <option name="y" value="1108" />
+    <option name="width" value="1878" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,14 +284,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545996134406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546323917141" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -297,9 +312,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaIODemo04">
-    <configuration name="IODemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.IODemo02" />
+  <component name="RunManager" selected="Application.IODemo06">
+    <configuration name="IODemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.IODemo03" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -311,8 +326,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaIODemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.JavaIODemo01" />
+    <configuration name="IODemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.IODemo04" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -324,8 +339,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaIODemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.JavaIODemo02" />
+    <configuration name="IODemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.IODemo05" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -337,8 +352,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaIODemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.JavaIODemo03" />
+    <configuration name="IODemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.IODemo06" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -350,8 +365,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaIODemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.JavaIODemo04" />
+    <configuration name="JavaIODemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xiaotian.io.JavaIODemo06" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -364,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IODemo02" />
-      <item itemvalue="Application.JavaIODemo01" />
-      <item itemvalue="Application.JavaIODemo02" />
-      <item itemvalue="Application.JavaIODemo03" />
-      <item itemvalue="Application.JavaIODemo04" />
+      <item itemvalue="Application.JavaIODemo06" />
+      <item itemvalue="Application.IODemo03" />
+      <item itemvalue="Application.IODemo04" />
+      <item itemvalue="Application.IODemo05" />
+      <item itemvalue="Application.IODemo06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaIODemo04" />
-        <item itemvalue="Application.JavaIODemo03" />
-        <item itemvalue="Application.JavaIODemo02" />
-        <item itemvalue="Application.JavaIODemo01" />
-        <item itemvalue="Application.IODemo02" />
+        <item itemvalue="Application.IODemo06" />
+        <item itemvalue="Application.IODemo05" />
+        <item itemvalue="Application.IODemo03" />
+        <item itemvalue="Application.IODemo04" />
+        <item itemvalue="Application.JavaIODemo06" />
       </list>
     </recent_temporary>
   </component>
@@ -404,19 +419,22 @@
       <workItem from="1545820271761" duration="599000" />
       <workItem from="1545888828894" duration="857000" />
       <workItem from="1545903278849" duration="5482000" />
-      <workItem from="1545986855689" duration="5396000" />
+      <workItem from="1545986855689" duration="7799000" />
+      <workItem from="1546076202501" duration="11278000" />
+      <workItem from="1546148254611" duration="8474000" />
+      <workItem from="1546321874774" duration="1870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41655000" />
+    <option name="totallyTimeSpent" value="65680000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-1087" width="1488" height="803" extended-state="7" />
+    <frame x="-7" y="1073" width="1488" height="803" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3475728" visible="true" weight="0.2905028" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.6524272" side_tool="true" visible="true" weight="0.2905028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7735849" visible="true" weight="0.30307263" />
+      <window_info id="Structure" order="1" sideWeight="0.2264151" side_tool="true" visible="true" weight="0.30307263" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -424,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23248883" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2891207" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21311475" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +482,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/study/testArray.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/study/testArray/testArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -577,13 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/testList/writeArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/thread/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -647,11 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_源码与笔记.zip/源码与笔记/IO/src/com/bjsxt/io/file/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176" />
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_源码与笔记.zip/源码与笔记/IO/src/com/bjsxt/io/file/Demo01.java" />
     <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -673,10 +679,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4131">
-          <caret line="278" column="32" selection-start-line="278" selection-start-column="32" selection-end-line="278" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3536">
+          <caret line="232" column="24" selection-start-line="232" selection-start-column="15" selection-end-line="232" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scores.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -684,16 +711,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8466">
           <caret line="550" column="22" selection-start-line="550" selection-start-column="22" selection-end-line="550" selection-end-column="22" />
-          <folding>
-            <element signature="e#19132#19133#0" expanded="true" />
-            <element signature="e#19175#19176#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7650">
+        <state relative-caret-position="7616">
           <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
         </state>
       </provider>
@@ -705,44 +728,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo02.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/testList/writeArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scores.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="391">
+          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/OutputStreamWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="192" column="16" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15351">
+          <caret line="957" column="40" selection-start-line="957" selection-start-column="35" selection-end-line="957" selection-end-column="40" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/JavaIODemo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="452" column="18" selection-start-line="452" selection-start-column="18" selection-end-line="452" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/IODemo07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/xiaotian/io/FileCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
