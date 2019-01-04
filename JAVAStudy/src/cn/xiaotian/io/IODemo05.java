@@ -16,7 +16,7 @@ public class IODemo05 {
         File dest = null;
         src = new File("d:/a.txt");
         dest = new File("d:/sxt_copy_a.txt");
-        FileCopy.Filecopy(src,dest);
+        FileCopy.BufferedFilecopy(src,dest);
 
 
     }

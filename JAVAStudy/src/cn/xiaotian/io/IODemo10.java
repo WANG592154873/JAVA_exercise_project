@@ -1,24 +1,27 @@
 package cn.xiaotian.io;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.Reader;
+import java.io.*;
 
 /**
- * 字符流 Reader
+ * BufferedReader和BufferWriter 字符缓冲流
  */
-public class IODemo07 {
+public class IODemo10 {
     public static void main(String[] args) {
-        Reader reader = null;
+        BufferedReader reader = null;
+        BufferedWriter wt = null;
         try {
-            reader = new FileReader("d:a.txt");
-            char[] rd = new char[1024];
-            int len = 0;
-            while(-1!=(len=reader.read(rd))){
-                String str = new String(rd,0,len);//注意此处
-                System.out.println(str);
+            reader = new BufferedReader(new FileReader("d:a.txt"));
+            wt = new BufferedWriter(new FileWriter("d:/b.txt",true));//文件存不存在不重要
+
+            String line = null;
+            while(null!=(line=reader.readLine())){
+                System.out.println(line);
+                wt.write(line);
+                wt.newLine();//换行符号
+
+                wt.flush();
             }
+
         } catch (FileNotFoundException e) {
             System.out.println("文件打开失败");
             e.printStackTrace();
@@ -27,6 +30,8 @@ public class IODemo07 {
             e.printStackTrace();
         } finally {
             try {
+                if(null!=wt){
+                    wt.close();}
                 if(null!=reader){
                     reader.close();
                 }
